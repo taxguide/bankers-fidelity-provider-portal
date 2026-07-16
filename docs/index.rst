@@ -4,7 +4,7 @@
 
 
 Bankers Fidelity Provider Portal Guide
-=====================================
+===================================== 
 
 Welcome to the Bankers Fidelity Provider Portal guide.
 
